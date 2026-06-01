@@ -1,0 +1,6 @@
+pyside6
+python-qt5
+opencv-python>=4.9.0
+mediapipe>=0.10.14
+numpy>=1.26.4
+PyQt5>=5.15.10
